@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 3fbad850d449cd542931fce0a78261ce
+timeCreated: 1460662465
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: staan_0
+    21300002: staan_1
+    21300004: staan_2
+    21300006: staan_3
+    21300008: staan_4
+    21300010: staan_5
+    21300012: staan_6
+    21300014: staan_7
+    21300016: staan_8
+    21300018: staan_9
+    21300020: staan_10
+    21300022: staan_11
+    21300024: staan_12
+    21300026: staan_13
+    21300028: staan_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: staan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 103}
+        - {x: 31, y: 122}
+        - {x: -23, y: 122}
+        - {x: -42, y: 119}
+        - {x: -52, y: 11}
+        - {x: -52, y: -58}
+        - {x: -23, y: -122}
+        - {x: 23, y: -122}
+        - {x: 25, y: -120}
+        - {x: 69, y: -39}
+        - {x: 69, y: -4}
+    - name: staan_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 119}
+        - {x: -31, y: 112}
+        - {x: -51, y: 18}
+        - {x: -51, y: -78}
+        - {x: -31, y: -122}
+        - {x: 26, y: -122}
+        - {x: 70, y: -46}
+        - {x: 70, y: 108}
+        - {x: 36, y: 119}
+    - name: staan_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 116}
+        - {x: -19, y: 116}
+        - {x: -40, y: 111}
+        - {x: -51, y: -17}
+        - {x: -51, y: -70}
+        - {x: -26, y: -122}
+        - {x: 29, y: -122}
+        - {x: 70, y: -55}
+        - {x: 70, y: 31}
+        - {x: 57, y: 98}
+    - name: staan_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 114}
+        - {x: -26, y: 114}
+        - {x: -32, y: 113}
+        - {x: -50, y: 9}
+        - {x: -50, y: -74}
+        - {x: -30, y: -122}
+        - {x: 27, y: -122}
+        - {x: 71, y: -72}
+        - {x: 71, y: 24}
+        - {x: 58, y: 94}
+    - name: staan_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 99}
+        - {x: 47, y: 111}
+        - {x: -26, y: 111}
+        - {x: -50, y: 34}
+        - {x: -50, y: -95}
+        - {x: -27, y: -119}
+        - {x: -22, y: -122}
+        - {x: 23, y: -122}
+        - {x: 25, y: -120}
+        - {x: 72, y: -66}
+        - {x: 72, y: 67}
+    - name: staan_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 83}
+        - {x: 61, y: 108}
+        - {x: -49, y: 108}
+        - {x: -49, y: -122}
+        - {x: 26, y: -122}
+        - {x: 72, y: -58}
+        - {x: 72, y: -47}
+        - {x: 70, y: -46}
+    - name: staan_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 106}
+        - {x: -24, y: 97}
+        - {x: -29, y: 94}
+        - {x: -48, y: -15}
+        - {x: -48, y: -97}
+        - {x: -41, y: -122}
+        - {x: 32, y: -122}
+        - {x: 73, y: -99}
+        - {x: 73, y: 54}
+        - {x: 63, y: 83}
+        - {x: 36, y: 106}
+    - name: staan_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 103}
+        - {x: -48, y: -122}
+        - {x: 28, y: -122}
+        - {x: 73, y: -91}
+        - {x: 73, y: 59}
+        - {x: 58, y: 103}
+    - name: staan_8
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 105}
+        - {x: -27, y: 105}
+        - {x: -48, y: 72}
+        - {x: -48, y: -82}
+        - {x: -26, y: -122}
+        - {x: 28, y: -122}
+        - {x: 73, y: -75}
+        - {x: 73, y: 24}
+        - {x: 61, y: 103}
+    - name: staan_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 108}
+        - {x: -16, y: 108}
+        - {x: -38, y: 104}
+        - {x: -49, y: -4}
+        - {x: -49, y: -87}
+        - {x: -25, y: -122}
+        - {x: 29, y: -122}
+        - {x: 72, y: -56}
+        - {x: 72, y: 0}
+        - {x: 59, y: 87}
+    - name: staan_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 110}
+        - {x: -35, y: 100}
+        - {x: -49, y: -2}
+        - {x: -49, y: -77}
+        - {x: -24, y: -122}
+        - {x: 27, y: -122}
+        - {x: 72, y: -57}
+        - {x: 72, y: 99}
+        - {x: 55, y: 110}
+    - name: staan_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 112}
+        - {x: -40, y: 108}
+        - {x: -50, y: 22}
+        - {x: -50, y: -69}
+        - {x: -29, y: -122}
+        - {x: 28, y: -122}
+        - {x: 71, y: -77}
+        - {x: 71, y: 56}
+        - {x: 55, y: 112}
+    - name: staan_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 115}
+        - {x: -33, y: 115}
+        - {x: -50, y: -4}
+        - {x: -50, y: -75}
+        - {x: -24, y: -122}
+        - {x: 27, y: -122}
+        - {x: 71, y: -56}
+        - {x: 71, y: 8}
+        - {x: 60, y: 91}
+    - name: staan_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 117}
+        - {x: -51, y: 47}
+        - {x: -51, y: -96}
+        - {x: -24, y: -122}
+        - {x: 27, y: -122}
+        - {x: 70, y: -46}
+        - {x: 70, y: 104}
+        - {x: 48, y: 117}
+    - name: staan_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 119}
+        - {x: -19, y: 119}
+        - {x: -31, y: 117}
+        - {x: -33, y: 91}
+        - {x: -51, y: -7}
+        - {x: -51, y: -76}
+        - {x: -28, y: -122}
+        - {x: 32, y: -122}
+        - {x: 70, y: -50}
+        - {x: 70, y: 20}
+        - {x: 58, y: 110}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

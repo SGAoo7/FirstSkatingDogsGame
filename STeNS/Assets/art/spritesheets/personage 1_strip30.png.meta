@@ -1,0 +1,722 @@
+fileFormatVersion: 2
+guid: 90b3f882d443f38419d34240c7e344c3
+timeCreated: 1460470116
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: personage 1_strip30_0
+    21300002: personage 1_strip30_1
+    21300004: personage 1_strip30_2
+    21300006: personage 1_strip30_3
+    21300008: personage 1_strip30_4
+    21300010: personage 1_strip30_5
+    21300012: personage 1_strip30_6
+    21300014: personage 1_strip30_7
+    21300016: personage 1_strip30_8
+    21300018: personage 1_strip30_9
+    21300020: personage 1_strip30_10
+    21300022: personage 1_strip30_11
+    21300024: personage 1_strip30_12
+    21300026: personage 1_strip30_13
+    21300028: personage 1_strip30_14
+    21300030: personage 1_strip30_15
+    21300032: personage 1_strip30_16
+    21300034: personage 1_strip30_17
+    21300036: personage 1_strip30_18
+    21300038: personage 1_strip30_19
+    21300040: personage 1_strip30_20
+    21300042: personage 1_strip30_21
+    21300044: personage 1_strip30_22
+    21300046: personage 1_strip30_23
+    21300048: personage 1_strip30_24
+    21300050: personage 1_strip30_25
+    21300052: personage 1_strip30_26
+    21300054: personage 1_strip30_27
+    21300056: personage 1_strip30_28
+    21300058: personage 1_strip30_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: personage 1_strip30_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 68.5}
+        - {x: -19.5, y: 68.5}
+        - {x: -29.5, y: -6.5}
+        - {x: -29.5, y: -38.5}
+        - {x: -13.5, y: -68.5}
+        - {x: 14.5, y: -68.5}
+        - {x: 38.5, y: -22.5}
+        - {x: 38.5, y: 9.5}
+        - {x: 33.5, y: 54.5}
+    - name: personage 1_strip30_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.53334, y: -64.5}
+        - {x: 42.53334, y: -33.5}
+        - {x: 42.53334, y: 17.5}
+        - {x: 33.53334, y: 54.5}
+        - {x: 22.53334, y: 68.5}
+        - {x: -16.46666, y: 68.5}
+        - {x: -26.46666, y: 67.5}
+        - {x: -30.46666, y: 35.5}
+        - {x: -30.46666, y: -39.5}
+        - {x: -16.46666, y: -66.5}
+        - {x: -1.4666595, y: -66.5}
+        - {x: 0.53334045, y: -64.5}
+        - {x: 1.5333405, y: -66.5}
+        - {x: 14.53334, y: -66.5}
+    - name: personage 1_strip30_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.56668, y: -52.5}
+        - {x: 45.56668, y: -45.5}
+        - {x: 45.56668, y: 68.5}
+        - {x: -21.43332, y: 68.5}
+        - {x: -31.43332, y: 42.5}
+        - {x: -31.43332, y: -61.5}
+        - {x: -29.43332, y: -65.5}
+        - {x: -2.433319, y: -65.5}
+        - {x: -1.4333191, y: -62.5}
+        - {x: 9.566681, y: -65.5}
+        - {x: 16.56668, y: -65.5}
+    - name: personage 1_strip30_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.600006, y: 68.5}
+        - {x: -22.399994, y: 68.5}
+        - {x: -31.399994, y: 40.5}
+        - {x: -31.399994, y: -60.5}
+        - {x: -29.399994, y: -64.5}
+        - {x: 39.600006, y: -64.5}
+        - {x: 48.600006, y: -50.5}
+        - {x: 48.600006, y: 44.5}
+        - {x: 41.600006, y: 62.5}
+    - name: personage 1_strip30_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.633362, y: 68.5}
+        - {x: -21.366638, y: 68.5}
+        - {x: -33.36664, y: 36.5}
+        - {x: -33.36664, y: -58.5}
+        - {x: -30.366638, y: -63.5}
+        - {x: 40.63336, y: -63.5}
+        - {x: 51.63336, y: -33.5}
+        - {x: 51.63336, y: 20.5}
+        - {x: 36.63336, y: 65.5}
+    - name: personage 1_strip30_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.666687, y: 57.5}
+        - {x: 21.666687, y: 68.5}
+        - {x: 0.666687, y: 68.5}
+        - {x: -21.333313, y: 63.5}
+        - {x: -33.333313, y: 9.5}
+        - {x: -33.333313, y: -43.5}
+        - {x: -26.333313, y: -61.5}
+        - {x: 49.666687, y: -61.5}
+        - {x: 54.666687, y: -25.5}
+        - {x: 54.666687, y: 5.5}
+    - name: personage 1_strip30_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.700012, y: 68.5}
+        - {x: -3.2999878, y: 68.5}
+        - {x: -24.299988, y: 62.5}
+        - {x: -34.299988, y: 0.5}
+        - {x: -34.299988, y: -60.5}
+        - {x: 57.700012, y: -60.5}
+        - {x: 57.700012, y: 16.5}
+        - {x: 41.700012, y: 63.5}
+    - name: personage 1_strip30_7
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.733337, y: 68.5}
+        - {x: -10.266663, y: 68.5}
+        - {x: -18.266663, y: 59.5}
+        - {x: -25.266663, y: 18.5}
+        - {x: -25.266663, y: 13.5}
+        - {x: -35.266663, y: -3.5}
+        - {x: -35.266663, y: -36.5}
+        - {x: -29.266663, y: -59.5}
+        - {x: 11.733337, y: -59.5}
+        - {x: 50.733337, y: -54.5}
+        - {x: 60.733337, y: -8.5}
+        - {x: 60.733337, y: 10.5}
+        - {x: 34.733337, y: 65.5}
+    - name: personage 1_strip30_8
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.233276, y: 68.5}
+        - {x: -19.233276, y: 65.5}
+        - {x: -34.233276, y: 13.5}
+        - {x: -34.233276, y: -60.5}
+        - {x: 46.766724, y: -60.5}
+        - {x: 58.766724, y: -39.5}
+        - {x: 58.766724, y: 25.5}
+        - {x: 26.766724, y: 68.5}
+    - name: personage 1_strip30_9
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.80005, y: 63.5}
+        - {x: 29.800049, y: 68.5}
+        - {x: -17.199951, y: 68.5}
+        - {x: -33.19995, y: 21.5}
+        - {x: -33.19995, y: -57.5}
+        - {x: -32.19995, y: -61.5}
+        - {x: 27.800049, y: -61.5}
+        - {x: 51.80005, y: -51.5}
+        - {x: 57.80005, y: -26.5}
+        - {x: 57.80005, y: 8.5}
+    - name: personage 1_strip30_10
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.833374, y: 68.5}
+        - {x: -33.166626, y: 68.5}
+        - {x: -33.166626, y: -62.5}
+        - {x: 35.833374, y: -62.5}
+        - {x: 54.833374, y: -26.5}
+        - {x: 54.833374, y: 16.5}
+        - {x: 33.833374, y: 56.5}
+    - name: personage 1_strip30_11
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.8667, y: 57.5}
+        - {x: 23.8667, y: 68.5}
+        - {x: -3.1333008, y: 68.5}
+        - {x: -21.1333, y: 62.5}
+        - {x: -32.1333, y: -2.5}
+        - {x: -32.1333, y: -63.5}
+        - {x: 33.8667, y: -63.5}
+        - {x: 52.8667, y: -18.5}
+        - {x: 52.8667, y: -9.5}
+        - {x: 51.8667, y: -7.5}
+    - name: personage 1_strip30_12
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.900024, y: 22.5}
+        - {x: 30.900024, y: 68.5}
+        - {x: -31.099976, y: 68.5}
+        - {x: -31.099976, y: -64.5}
+        - {x: 17.900024, y: -64.5}
+        - {x: 28.900024, y: -57.5}
+        - {x: 32.900024, y: -52.5}
+        - {x: 49.900024, y: -22.5}
+    - name: personage 1_strip30_13
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.93335, y: -60.5}
+        - {x: 46.93335, y: -29.5}
+        - {x: 46.93335, y: 32.5}
+        - {x: 42.93335, y: 61.5}
+        - {x: 32.93335, y: 67.5}
+        - {x: -20.06665, y: 67.5}
+        - {x: -30.06665, y: 39.5}
+        - {x: -30.06665, y: -61.5}
+        - {x: -27.06665, y: -66.5}
+        - {x: -1.0666504, y: -66.5}
+        - {x: -0.06665039, y: -63.5}
+        - {x: 8.93335, y: -66.5}
+        - {x: 19.93335, y: -64.5}
+    - name: personage 1_strip30_14
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.966675, y: 62.5}
+        - {x: 16.966675, y: 68.5}
+        - {x: -11.033325, y: 68.5}
+        - {x: -17.033325, y: 61.5}
+        - {x: -16.033325, y: 38.5}
+        - {x: -15.033325, y: 13.5}
+        - {x: -29.033325, y: -16.5}
+        - {x: -29.033325, y: -29.5}
+        - {x: -27.033325, y: -35.5}
+        - {x: -19.033325, y: -66.5}
+        - {x: -13.033325, y: -67.5}
+        - {x: 17.966675, y: -67.5}
+        - {x: 42.966675, y: -29.5}
+        - {x: 42.966675, y: 31.5}
+    - name: personage 1_strip30_15
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 68.5}
+        - {x: -19.5, y: 68.5}
+        - {x: -29.5, y: -6.5}
+        - {x: -29.5, y: -38.5}
+        - {x: -13.5, y: -68.5}
+        - {x: 14.5, y: -68.5}
+        - {x: 38.5, y: -22.5}
+        - {x: 38.5, y: 9.5}
+        - {x: 33.5, y: 54.5}
+    - name: personage 1_strip30_16
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.466553, y: 68.5}
+        - {x: -17.466553, y: 66.5}
+        - {x: -30.466553, y: 1.5}
+        - {x: -30.466553, y: -36.5}
+        - {x: -7.4665527, y: -67.5}
+        - {x: 2.5334473, y: -67.5}
+        - {x: 9.533447, y: -66.5}
+        - {x: 33.533447, y: -51.5}
+        - {x: 33.533447, y: 68.5}
+    - name: personage 1_strip30_17
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.43335, y: 68.5}
+        - {x: -35.43335, y: 30.5}
+        - {x: -35.43335, y: -52.5}
+        - {x: -23.43335, y: -65.5}
+        - {x: 15.56665, y: -65.5}
+        - {x: 18.56665, y: -61.5}
+        - {x: 33.56665, y: -38.5}
+        - {x: 33.56665, y: 67.5}
+        - {x: 30.56665, y: 68.5}
+    - name: personage 1_strip30_18
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.399902, y: 68.5}
+        - {x: -37.399902, y: 60.5}
+        - {x: -37.399902, y: -55.5}
+        - {x: -25.399902, y: -64.5}
+        - {x: 36.600098, y: -64.5}
+        - {x: 36.600098, y: 54.5}
+        - {x: 30.600098, y: 68.5}
+    - name: personage 1_strip30_19
+      rect:
+        serializedVersion: 2
+        x: 4750
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.3667, y: 68.5}
+        - {x: -39.3667, y: 37.5}
+        - {x: -39.3667, y: -40.5}
+        - {x: -35.3667, y: -61.5}
+        - {x: -24.3667, y: -62.5}
+        - {x: 39.6333, y: -62.5}
+        - {x: 39.6333, y: 63.5}
+        - {x: 25.6333, y: 68.5}
+    - name: personage 1_strip30_20
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.333252, y: 68.5}
+        - {x: -39.333252, y: 31.5}
+        - {x: -39.333252, y: -42.5}
+        - {x: -37.333252, y: -54.5}
+        - {x: -25.333252, y: -58.5}
+        - {x: -9.333252, y: -60.5}
+        - {x: 31.666748, y: -60.5}
+        - {x: 43.666748, y: -55.5}
+        - {x: 43.666748, y: 68.5}
+    - name: personage 1_strip30_21
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.69995, y: -17.5}
+        - {x: 41.69995, y: -17.5}
+        - {x: 45.69995, y: -16.5}
+        - {x: 45.69995, y: 25.5}
+        - {x: 37.69995, y: 65.5}
+        - {x: 33.69995, y: 68.5}
+        - {x: -12.300049, y: 68.5}
+        - {x: -26.300049, y: 64.5}
+        - {x: -38.30005, y: 52.5}
+        - {x: -38.30005, y: -57.5}
+        - {x: 37.69995, y: -57.5}
+        - {x: 38.69995, y: -42.5}
+        - {x: 29.699951, y: -37.5}
+        - {x: 36.69995, y: -23.5}
+    - name: personage 1_strip30_22
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.7334, y: -6.5}
+        - {x: 39.7334, y: -17.5}
+        - {x: 49.7334, y: -14.5}
+        - {x: 49.7334, y: 4.5}
+        - {x: 40.7334, y: 63.5}
+        - {x: 31.733398, y: 68.5}
+        - {x: -23.266602, y: 68.5}
+        - {x: -35.2666, y: 52.5}
+        - {x: -35.2666, y: -52.5}
+        - {x: -34.2666, y: -54.5}
+        - {x: 40.7334, y: -54.5}
+        - {x: 41.7334, y: -49.5}
+        - {x: 43.7334, y: -38.5}
+        - {x: 40.7334, y: -23.5}
+    - name: personage 1_strip30_23
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.766602, y: -11.5}
+        - {x: 34.7666, y: -15.5}
+        - {x: 41.7666, y: -17.5}
+        - {x: 45.7666, y: -16.5}
+        - {x: 45.7666, y: 27.5}
+        - {x: 39.7666, y: 59.5}
+        - {x: 30.766602, y: 68.5}
+        - {x: -9.233398, y: 68.5}
+        - {x: -26.233398, y: 63.5}
+        - {x: -38.2334, y: 50.5}
+        - {x: -38.2334, y: -57.5}
+        - {x: 34.7666, y: -57.5}
+        - {x: 39.7666, y: -46.5}
+        - {x: 35.7666, y: -38.5}
+        - {x: 35.7666, y: -16.5}
+    - name: personage 1_strip30_24
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.80005, y: 68.5}
+        - {x: -11.199951, y: 68.5}
+        - {x: -17.199951, y: 59.5}
+        - {x: -15.199951, y: 44.5}
+        - {x: -32.19995, y: 34.5}
+        - {x: -38.19995, y: 29.5}
+        - {x: -38.19995, y: -51.5}
+        - {x: -36.19995, y: -59.5}
+        - {x: 43.80005, y: -59.5}
+        - {x: 43.80005, y: 44.5}
+        - {x: 38.80005, y: 67.5}
+    - name: personage 1_strip30_25
+      rect:
+        serializedVersion: 2
+        x: 6250
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.166748, y: 68.5}
+        - {x: -39.166748, y: 35.5}
+        - {x: -39.166748, y: -28.5}
+        - {x: -25.166748, y: -60.5}
+        - {x: 35.833252, y: -60.5}
+        - {x: 40.833252, y: -59.5}
+        - {x: 40.833252, y: 53.5}
+        - {x: 34.833252, y: 68.5}
+    - name: personage 1_strip30_26
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.1333, y: 68.5}
+        - {x: -38.1333, y: 43.5}
+        - {x: -38.1333, y: -52.5}
+        - {x: -24.1333, y: -62.5}
+        - {x: 28.8667, y: -62.5}
+        - {x: 38.8667, y: -43.5}
+        - {x: 38.8667, y: 68.5}
+    - name: personage 1_strip30_27
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.900146, y: 57.5}
+        - {x: 21.900146, y: 68.5}
+        - {x: -18.099854, y: 68.5}
+        - {x: -37.099854, y: 37.5}
+        - {x: -37.099854, y: -50.5}
+        - {x: -30.099854, y: -64.5}
+        - {x: 17.900146, y: -64.5}
+        - {x: 19.900146, y: -53.5}
+        - {x: 34.900146, y: -35.5}
+        - {x: 34.900146, y: 38.5}
+    - name: personage 1_strip30_28
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.06665, y: 68.5}
+        - {x: -22.06665, y: 65.5}
+        - {x: -33.06665, y: 34.5}
+        - {x: -33.06665, y: -49.5}
+        - {x: -25.06665, y: -65.5}
+        - {x: 32.93335, y: -65.5}
+        - {x: 34.93335, y: -50.5}
+        - {x: 34.93335, y: 68.5}
+    - name: personage 1_strip30_29
+      rect:
+        serializedVersion: 2
+        x: 7250
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.033203, y: 68.5}
+        - {x: -29.033203, y: 29.5}
+        - {x: -29.033203, y: -34.5}
+        - {x: -27.033203, y: -35.5}
+        - {x: -15.033203, y: -36.5}
+        - {x: -8.033203, y: -66.5}
+        - {x: 23.966797, y: -66.5}
+        - {x: 33.966797, y: -65.5}
+        - {x: 33.966797, y: 68.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,744 @@
+fileFormatVersion: 2
+guid: baa865abe5933a645a510d8ee82ac833
+timeCreated: 1460661351
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet walk (3)_0
+    21300002: spritesheet walk (3)_1
+    21300004: spritesheet walk (3)_2
+    21300006: spritesheet walk (3)_3
+    21300008: spritesheet walk (3)_4
+    21300010: spritesheet walk (3)_5
+    21300012: spritesheet walk (3)_6
+    21300014: spritesheet walk (3)_7
+    21300016: spritesheet walk (3)_8
+    21300018: spritesheet walk (3)_9
+    21300020: spritesheet walk (3)_10
+    21300022: spritesheet walk (3)_11
+    21300024: spritesheet walk (3)_12
+    21300026: spritesheet walk (3)_13
+    21300028: spritesheet walk (3)_14
+    21300030: spritesheet walk (3)_15
+    21300032: spritesheet walk (3)_16
+    21300034: spritesheet walk (3)_17
+    21300036: spritesheet walk (3)_18
+    21300038: spritesheet walk (3)_19
+    21300040: spritesheet walk (3)_20
+    21300042: spritesheet walk (3)_21
+    21300044: spritesheet walk (3)_22
+    21300046: spritesheet walk (3)_23
+    21300048: spritesheet walk (3)_24
+    21300050: spritesheet walk (3)_25
+    21300052: spritesheet walk (3)_26
+    21300054: spritesheet walk (3)_27
+    21300056: spritesheet walk (3)_28
+    21300058: spritesheet walk (3)_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesheet walk (3)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 103}
+        - {x: 31, y: 122}
+        - {x: -23, y: 122}
+        - {x: -42, y: 119}
+        - {x: -52, y: 11}
+        - {x: -52, y: -58}
+        - {x: -23, y: -122}
+        - {x: 23, y: -122}
+        - {x: 25, y: -120}
+        - {x: 69, y: -39}
+        - {x: 69, y: -4}
+    - name: spritesheet walk (3)_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 122}
+        - {x: -32, y: 111}
+        - {x: -54, y: 25}
+        - {x: -54, y: -83}
+        - {x: -28, y: -120}
+        - {x: 59, y: -120}
+        - {x: 75, y: -105}
+        - {x: 75, y: 90}
+        - {x: 55, y: 122}
+    - name: spritesheet walk (3)_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 122}
+        - {x: -34, y: 122}
+        - {x: -43, y: 117}
+        - {x: -55, y: 57}
+        - {x: -55, y: -95}
+        - {x: -47, y: -117}
+        - {x: 27, y: -117}
+        - {x: 43, y: -108}
+        - {x: 81, y: -68}
+        - {x: 81, y: 44}
+    - name: spritesheet walk (3)_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 122}
+        - {x: -39, y: 113}
+        - {x: -57, y: 15}
+        - {x: -57, y: -115}
+        - {x: 79, y: -115}
+        - {x: 86, y: -60}
+        - {x: 86, y: 122}
+    - name: spritesheet walk (3)_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 66}
+        - {x: -59, y: -24}
+        - {x: -59, y: -113}
+        - {x: 92, y: -113}
+        - {x: 92, y: 122}
+        - {x: -28, y: 122}
+        - {x: -33, y: 121}
+    - name: spritesheet walk (3)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 123}
+        - {x: -20, y: 123}
+        - {x: -60, y: 105}
+        - {x: -60, y: -110}
+        - {x: -19, y: -110}
+        - {x: -17, y: -109}
+        - {x: -14, y: -110}
+        - {x: 76, y: -110}
+        - {x: 97, y: -67}
+        - {x: 97, y: 35}
+    - name: spritesheet walk (3)_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1000
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101, y: -42}
+        - {x: 103, y: -32}
+        - {x: 103, y: 46}
+        - {x: 58, y: 111}
+        - {x: 29, y: 123}
+        - {x: -18, y: 123}
+        - {x: -41, y: 96}
+        - {x: -62, y: 37}
+        - {x: -62, y: -92}
+        - {x: -55, y: -108}
+        - {x: -20, y: -108}
+        - {x: -16, y: -91}
+        - {x: 46, y: -108}
+        - {x: 64, y: -108}
+    - name: spritesheet walk (3)_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1000
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 123}
+        - {x: -36, y: 119}
+        - {x: -64, y: 5}
+        - {x: -64, y: -106}
+        - {x: 71, y: -106}
+        - {x: 108, y: -96}
+        - {x: 108, y: 34}
+        - {x: 47, y: 123}
+    - name: spritesheet walk (3)_8
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1000
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: 1}
+        - {x: 58, y: 110}
+        - {x: 30, y: 123}
+        - {x: -24, y: 123}
+        - {x: -35, y: 121}
+        - {x: -62, y: -5}
+        - {x: -62, y: -61}
+        - {x: -51, y: -100}
+        - {x: -48, y: -108}
+        - {x: 77, y: -108}
+        - {x: 82, y: -87}
+        - {x: 105, y: -8}
+        - {x: 105, y: 0}
+    - name: spritesheet walk (3)_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: 116}
+        - {x: 48, y: 123}
+        - {x: -22, y: 123}
+        - {x: -32, y: 99}
+        - {x: -61, y: -26}
+        - {x: -61, y: -66}
+        - {x: -49, y: -110}
+        - {x: -27, y: -110}
+        - {x: -19, y: -107}
+        - {x: -13, y: -110}
+        - {x: 89, y: -110}
+        - {x: 102, y: -91}
+        - {x: 102, y: 60}
+    - name: spritesheet walk (3)_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 123}
+        - {x: -38, y: 123}
+        - {x: -59, y: 71}
+        - {x: -59, y: -112}
+        - {x: 67, y: -112}
+        - {x: 98, y: -49}
+        - {x: 98, y: 29}
+        - {x: 72, y: 116}
+    - name: spritesheet walk (3)_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93, y: 33}
+        - {x: 74, y: 80}
+        - {x: 45, y: 122}
+        - {x: -7, y: 122}
+        - {x: -33, y: 111}
+        - {x: -58, y: -32}
+        - {x: -58, y: -45}
+        - {x: -38, y: -114}
+        - {x: 47, y: -114}
+        - {x: 55, y: -97}
+        - {x: 54, y: -93}
+        - {x: 93, y: -36}
+    - name: spritesheet walk (3)_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 122}
+        - {x: -41, y: 122}
+        - {x: -56, y: 87}
+        - {x: -56, y: -116}
+        - {x: 61, y: -116}
+        - {x: 88, y: -56}
+        - {x: 88, y: -9}
+        - {x: 67, y: 113}
+    - name: spritesheet walk (3)_13
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82, y: 0}
+        - {x: 56, y: 105}
+        - {x: 41, y: 121}
+        - {x: -19, y: 121}
+        - {x: -41, y: 116}
+        - {x: -55, y: -5}
+        - {x: -55, y: -119}
+        - {x: 36, y: -119}
+        - {x: 40, y: -110}
+        - {x: 41, y: -104}
+        - {x: 82, y: -47}
+    - name: spritesheet walk (3)_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 750
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -121}
+        - {x: 37, y: -116}
+        - {x: 76, y: -80}
+        - {x: 76, y: 63}
+        - {x: 50, y: 122}
+        - {x: -53, y: 122}
+        - {x: -53, y: -121}
+        - {x: -1, y: -121}
+        - {x: 2, y: -104}
+        - {x: 3, y: -117}
+        - {x: 7, y: -121}
+    - name: spritesheet walk (3)_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 103}
+        - {x: 31, y: 122}
+        - {x: -23, y: 122}
+        - {x: -42, y: 119}
+        - {x: -52, y: 11}
+        - {x: -52, y: -58}
+        - {x: -23, y: -122}
+        - {x: 23, y: -122}
+        - {x: 25, y: -120}
+        - {x: 69, y: -39}
+        - {x: 69, y: -4}
+    - name: spritesheet walk (3)_16
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 123}
+        - {x: -45, y: 116}
+        - {x: -54, y: 52}
+        - {x: -54, y: -79}
+        - {x: -12, y: -121}
+        - {x: 5, y: -121}
+        - {x: 16, y: -120}
+        - {x: 59, y: -85}
+        - {x: 59, y: 122}
+        - {x: 56, y: 123}
+    - name: spritesheet walk (3)_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 123}
+        - {x: -13, y: 123}
+        - {x: -39, y: 116}
+        - {x: -62, y: 74}
+        - {x: -62, y: -96}
+        - {x: -48, y: -118}
+        - {x: 39, y: -118}
+        - {x: 60, y: -94}
+        - {x: 60, y: 95}
+        - {x: 58, y: 105}
+    - name: spritesheet walk (3)_18
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: 124}
+        - {x: -29, y: 124}
+        - {x: -43, y: 117}
+        - {x: -67, y: 20}
+        - {x: -67, y: 7}
+        - {x: -60, y: 0}
+        - {x: -38, y: 3}
+        - {x: -67, y: -40}
+        - {x: -67, y: -41}
+        - {x: -31, y: -115}
+        - {x: -17, y: -115}
+        - {x: -2, y: -111}
+        - {x: 0, y: -109}
+        - {x: 10, y: -115}
+        - {x: 19, y: -115}
+        - {x: 46, y: -97}
+        - {x: 64, y: -75}
+        - {x: 64, y: 104}
+    - name: spritesheet walk (3)_19
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 500
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 125}
+        - {x: -70, y: 107}
+        - {x: -70, y: -73}
+        - {x: -54, y: -112}
+        - {x: 36, y: -112}
+        - {x: 68, y: -101}
+        - {x: 70, y: -97}
+        - {x: 70, y: 97}
+        - {x: 60, y: 125}
+    - name: spritesheet walk (3)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: -28}
+        - {x: 76, y: -8}
+        - {x: 70, y: 20}
+        - {x: 64, y: 107}
+        - {x: 59, y: 125}
+        - {x: -30, y: 125}
+        - {x: -71, y: 90}
+        - {x: -71, y: -108}
+        - {x: 59, y: -108}
+        - {x: 68, y: -44}
+        - {x: 63, y: -35}
+        - {x: 70, y: -33}
+    - name: spritesheet walk (3)_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: 125}
+        - {x: -69, y: -52}
+        - {x: -57, y: -93}
+        - {x: -53, y: -101}
+        - {x: -29, y: -99}
+        - {x: -27, y: -97}
+        - {x: 24, y: -103}
+        - {x: 59, y: -103}
+        - {x: 82, y: -79}
+        - {x: 82, y: 73}
+        - {x: 65, y: 125}
+    - name: spritesheet walk (3)_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87, y: -27}
+        - {x: 87, y: 21}
+        - {x: 74, y: 112}
+        - {x: 39, y: 125}
+        - {x: -37, y: 125}
+        - {x: -64, y: 87}
+        - {x: -64, y: -96}
+        - {x: -62, y: -97}
+        - {x: -37, y: -97}
+        - {x: -18, y: -98}
+        - {x: 70, y: -98}
+        - {x: 70, y: -96}
+        - {x: 76, y: -71}
+        - {x: 66, y: -31}
+    - name: spritesheet walk (3)_23
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: -30}
+        - {x: 83, y: -22}
+        - {x: 83, y: 20}
+        - {x: 64, y: 100}
+        - {x: 39, y: 125}
+        - {x: -38, y: 125}
+        - {x: -68, y: 84}
+        - {x: -68, y: -90}
+        - {x: -64, y: -102}
+        - {x: 70, y: -102}
+        - {x: 69, y: -76}
+        - {x: 65, y: -33}
+        - {x: 53, y: -24}
+    - name: spritesheet walk (3)_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 250
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 125}
+        - {x: -70, y: 109}
+        - {x: -70, y: -79}
+        - {x: -60, y: -106}
+        - {x: -27, y: -106}
+        - {x: -22, y: -104}
+        - {x: -17, y: -85}
+        - {x: 28, y: -106}
+        - {x: 76, y: -106}
+        - {x: 77, y: -103}
+        - {x: 77, y: 41}
+        - {x: 57, y: 125}
+    - name: spritesheet walk (3)_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -42}
+        - {x: -40, y: -109}
+        - {x: 59, y: -109}
+        - {x: 72, y: -97}
+        - {x: 72, y: 113}
+        - {x: 65, y: 125}
+        - {x: -27, y: 125}
+        - {x: -35, y: 120}
+        - {x: -71, y: 64}
+    - name: spritesheet walk (3)_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: 20}
+        - {x: 61, y: 101}
+        - {x: 36, y: 125}
+        - {x: -9, y: 125}
+        - {x: -38, y: 122}
+        - {x: -69, y: 30}
+        - {x: -69, y: 11}
+        - {x: -64, y: 7}
+        - {x: -59, y: -46}
+        - {x: -47, y: -56}
+        - {x: -39, y: -112}
+        - {x: 29, y: -112}
+        - {x: 43, y: -99}
+        - {x: 39, y: -87}
+        - {x: 67, y: -56}
+    - name: spritesheet walk (3)_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 124}
+        - {x: -9, y: 123}
+        - {x: -33, y: 112}
+        - {x: -66, y: 40}
+        - {x: -66, y: -36}
+        - {x: -44, y: -115}
+        - {x: 27, y: -115}
+        - {x: 61, y: -71}
+        - {x: 61, y: 107}
+        - {x: 29, y: 124}
+    - name: spritesheet walk (3)_28
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 123}
+        - {x: -35, y: 116}
+        - {x: -61, y: 26}
+        - {x: -61, y: -11}
+        - {x: -54, y: -19}
+        - {x: -45, y: -18}
+        - {x: -55, y: -42}
+        - {x: -56, y: -55}
+        - {x: -30, y: -65}
+        - {x: -24, y: -112}
+        - {x: -12, y: -118}
+        - {x: 55, y: -118}
+        - {x: 60, y: -93}
+        - {x: 60, y: 123}
+    - name: spritesheet walk (3)_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 123}
+        - {x: -53, y: 80}
+        - {x: -53, y: -100}
+        - {x: -43, y: -120}
+        - {x: 49, y: -120}
+        - {x: 59, y: -76}
+        - {x: 59, y: 123}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
